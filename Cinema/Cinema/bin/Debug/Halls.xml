@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfCinemaHallScheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CinemaHallScheme>
+    <Name>Royal</Name>
+    <CountOfRows>25</CountOfRows>
+    <CountOfPlacesInRow>20</CountOfPlacesInRow>
+  </CinemaHallScheme>
+  <CinemaHallScheme>
+    <Name>Number 2</Name>
+    <CountOfRows>12</CountOfRows>
+    <CountOfPlacesInRow>20</CountOfPlacesInRow>
+  </CinemaHallScheme>
+  <CinemaHallScheme>
+    <Name>Scharlet</Name>
+    <CountOfRows>18</CountOfRows>
+    <CountOfPlacesInRow>20</CountOfPlacesInRow>
+  </CinemaHallScheme>
+  <CinemaHallScheme>
+    <Name>Number 4</Name>
+    <CountOfRows>10</CountOfRows>
+    <CountOfPlacesInRow>12</CountOfPlacesInRow>
+  </CinemaHallScheme>
+</ArrayOfCinemaHallScheme>

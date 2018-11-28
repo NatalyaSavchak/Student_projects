@@ -1,0 +1,7 @@
+D:\С++\Exchanger\Exchanger\bin\Debug\Exchanger.exe.config
+D:\С++\Exchanger\Exchanger\bin\Debug\Exchanger.exe
+D:\С++\Exchanger\Exchanger\bin\Debug\Exchanger.pdb
+D:\С++\Exchanger\Exchanger\obj\Debug\Exchanger.csprojAssemblyReference.cache
+D:\С++\Exchanger\Exchanger\obj\Debug\Exchanger.csproj.CoreCompileInputs.cache
+D:\С++\Exchanger\Exchanger\obj\Debug\Exchanger.exe
+D:\С++\Exchanger\Exchanger\obj\Debug\Exchanger.pdb

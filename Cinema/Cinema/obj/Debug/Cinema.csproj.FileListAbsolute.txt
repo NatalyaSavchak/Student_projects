@@ -1,0 +1,14 @@
+D:\С++\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\С++\Cinema\Cinema\bin\Debug\Cinema.exe
+D:\С++\Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\С++\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\С++\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\С++\Cinema\Cinema\obj\Debug\Cinema.exe
+D:\С++\Cinema\Cinema\obj\Debug\Cinema.pdb
+D:\С++\Спроба полагодити\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\С++\Спроба полагодити\Cinema\Cinema\bin\Debug\Cinema.exe
+D:\С++\Спроба полагодити\Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\С++\Спроба полагодити\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\С++\Спроба полагодити\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\С++\Спроба полагодити\Cinema\Cinema\obj\Debug\Cinema.exe
+D:\С++\Спроба полагодити\Cinema\Cinema\obj\Debug\Cinema.pdb

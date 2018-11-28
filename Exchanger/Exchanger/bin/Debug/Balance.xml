@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ArrayOfDictionaryObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DictionaryObject>
+    <Key>840</Key>
+    <Value>1200</Value>
+  </DictionaryObject>
+  <DictionaryObject>
+    <Key>978</Key>
+    <Value>250</Value>
+  </DictionaryObject>
+  <DictionaryObject>
+    <Key>985</Key>
+    <Value>1700</Value>
+  </DictionaryObject>
+  <DictionaryObject>
+    <Key>36</Key>
+    <Value>490</Value>
+  </DictionaryObject>
+</ArrayOfDictionaryObject>

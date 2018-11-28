@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfCustomerDictionaryObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerDictionaryObject>
+    <Key>Alex_1986</Key>
+    <Value>
+      <Birth>1986-01-11T00:00:00</Birth>
+      <Password>1986</Password>
+      <CountWatchedFilms>2</CountWatchedFilms>
+    </Value>
+  </CustomerDictionaryObject>
+  <CustomerDictionaryObject>
+    <Key>Ann_Pr</Key>
+    <Value>
+      <Birth>1889-04-12T00:00:00</Birth>
+      <Password>12345</Password>
+      <CountWatchedFilms>5</CountWatchedFilms>
+    </Value>
+  </CustomerDictionaryObject>
+  <CustomerDictionaryObject>
+    <Key>MM_1991</Key>
+    <Value>
+      <Birth>1991-10-01T00:00:00</Birth>
+      <Password>010101</Password>
+      <CountWatchedFilms>1</CountWatchedFilms>
+    </Value>
+  </CustomerDictionaryObject>
+</ArrayOfCustomerDictionaryObject>

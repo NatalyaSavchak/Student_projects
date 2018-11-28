@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <Name>Film 1</Name>
+    <Description>Short description of "Film 1".</Description>
+    <MoveLength>128</MoveLength>
+    <AgeLimit>18</AgeLimit>
+    <BaseTicketPrice>90</BaseTicketPrice>
+    <StartInCinema>2018-11-01T00:00:00</StartInCinema>
+    <FinishInCinema>2018-11-25T00:00:00</FinishInCinema>
+  </Film>
+  <Film>
+    <Name>Film 2</Name>
+    <Description>Short description of "Film 2"</Description>
+    <MoveLength>134</MoveLength>
+    <AgeLimit>18</AgeLimit>
+    <BaseTicketPrice>120</BaseTicketPrice>
+    <StartInCinema>2018-11-10T00:00:00</StartInCinema>
+    <FinishInCinema>2018-12-10T00:00:00</FinishInCinema>
+  </Film>
+  <Film>
+    <Name>Film 3</Name>
+    <Description>Short description of Film 3</Description>
+    <MoveLength>112</MoveLength>
+    <AgeLimit>0</AgeLimit>
+    <BaseTicketPrice>100</BaseTicketPrice>
+    <StartInCinema>2018-11-10T00:00:00</StartInCinema>
+    <FinishInCinema>2018-11-28T00:00:00</FinishInCinema>
+  </Film>
+  <Film>
+    <Name>Film 4</Name>
+    <Description>Short description of Film 4</Description>
+    <MoveLength>98</MoveLength>
+    <AgeLimit>12</AgeLimit>
+    <BaseTicketPrice>100</BaseTicketPrice>
+    <StartInCinema>2018-12-01T00:00:00</StartInCinema>
+    <FinishInCinema>2018-12-31T00:00:00</FinishInCinema>
+  </Film>
+</ArrayOfFilm>
